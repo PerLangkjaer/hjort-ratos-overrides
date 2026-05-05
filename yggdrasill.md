@@ -1,6 +1,6 @@
 # Yggdrasill wiring guide
 
-This guide describes how the cables are connected to the Octopus Max EZ board for the Rapunzel machine (code name Yggdrasill). Use it as a reference for wiring.
+This guide describes how the cables are connected to the Octopus Max EZ board for the Yggdrasill machine. Use it as a reference for wiring.
 
 ## Motors
 
