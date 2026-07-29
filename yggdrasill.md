@@ -4,10 +4,10 @@ This guide describes how the cables are connected to the Octopus Max EZ board fo
 
 ## Motors
 
-- **X motor (T0)** – Motor1
-- **X1 motor** – Motor2
-- **Y motor** – Motor10
-- **Y1 motor** – Motor9
+- **X motor (T0) - L** – Motor1
+- **X1 motor - R** – Motor2
+- **Y motor - Y1** – Motor10
+- **Y1 motor - Y2** – Motor9
 - **Z motor (left)** – Motor5
 - **Z1 motor (rear)** – Motor6
 - **Z2 motor (right)** – Motor7
